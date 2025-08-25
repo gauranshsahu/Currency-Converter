@@ -36,7 +36,7 @@ currency-converter/
 
 Clone this repository:
 
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/gauranshsahu/currency-converter.git
 
 
 Open index.html in your browser.
