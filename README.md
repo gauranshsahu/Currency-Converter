@@ -66,5 +66,5 @@ const BASE_URL =
 👨‍💻 Author
 
 Gauransh Sahu
-📌 LinkedIn
+📌 LinkedIn : linkedin.com/in/gauransh-sahu-a0883b226
  | GitHub
