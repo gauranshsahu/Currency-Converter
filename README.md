@@ -52,7 +52,7 @@ You can get your own API key from 👉 exchangerate-api.com
 Replace the API key in script.js:
 
 const BASE_URL =
-  "https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/USD";
+  "(https://v6.exchangerate-api.com/v6/API_Key/latest/USD)";
 
 
 💡 Future Enhancements
